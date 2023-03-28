@@ -43,12 +43,15 @@ In this graph we have three different clusters of customers who exhibit certain 
 ![image](https://user-images.githubusercontent.com/86930309/228367832-9ff89d13-86f1-41c3-ae8c-ba610a42159f.png)
 
 This is the red cluster with the count of the different offer id that a customer responed to:
+
 ![image](https://user-images.githubusercontent.com/86930309/228368441-db0aff4d-d809-4597-8eeb-1ba85fe26fae.png)
 
 This is the green cluster withe offer id:
+
 ![image](https://user-images.githubusercontent.com/86930309/228368516-4cae3d03-ccef-4331-9e40-8a5ae3fcf751.png)
 
 Lastly we have the blue cluster:
+
 ![image](https://user-images.githubusercontent.com/86930309/228368544-570b44d4-614a-4713-a453-a040279463cd.png)
 
 ## 4. Conclusions and next steps
