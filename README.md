@@ -30,15 +30,12 @@ The second dataset in the second worksheet contains transactional data. It conta
 
 ### K-Means clustering: Exercise Sets 2 and 3
 
-- Choosing K: The Elbow method
+- Choosing K: The Elbow method. The elbow method suggests we use 4 clusters.
 
-The elbow method suggests we use 4 clusters.
-
-- Choosing K: The Silhouette method
-- 
-The average silhouette score suggests that we use 5 clusters
+- Choosing K: The Silhouette method. The average silhouette score suggests that we use 5 clusters
 
 - Choosing K: The Gap statistic method
+
 - Visualizing clusters with PCA: Exercise Sets 4 and 5
 
 ## 4. Conclusions and next steps
