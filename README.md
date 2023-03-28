@@ -58,8 +58,8 @@ Lastly we have the blue cluster:
 
 - Conclusions
 
-The Elbow Sum-of-Squares Method suggests we use a cluster of four. Using the silhouette method that recommends using
-a cluster of 5 since it has the highest average silhoutte. The PCA displays that four, (maybe five) is the optimal dimensions for this dataset. The PCA expresses that the first four to five components explain a majority of the variance. Since these methods suggest four or five i would test both of those values out to see which is a better fit for the data.
+The Elbow Sum-of-Squares Method suggests we use a cluster of four. The silhouette method recommends using a cluster of 5 since it has the highest average silhoutte. 
+The PCA displays that four, (maybe five) is the optimal dimensions for this dataset. The PCA expresses that the first four to five components explain a majority of the variance. Since these methods suggest four or five I would test both of those values out to see which is a better fit for the data.
 
 - Other clustering algorithms (Exercise Set 6)
 
