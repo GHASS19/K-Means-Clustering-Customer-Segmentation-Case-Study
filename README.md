@@ -32,14 +32,42 @@ The second dataset in the second worksheet contains transactional data. It conta
 
 - Choosing K: The Elbow method. The elbow method suggests we use 4 clusters.
 
-- Choosing K: The Silhouette method. The average silhouette score suggests that we use 5 clusters
+- Choosing K: The Silhouette method. The average silhouette score suggests that we use 5 clusters.
 
 - Choosing K: The Gap statistic method
 
 - Visualizing clusters with PCA: Exercise Sets 4 and 5
 
+In this graph we have three different clusters of customers who exhibit certain similar purchasing behavior using PCA to reduce the vast amount of variables into smaller ones.
+
+![image](https://user-images.githubusercontent.com/86930309/228367832-9ff89d13-86f1-41c3-ae8c-ba610a42159f.png)
+
+This is the red cluster with the count of the different offer id that a customer responed to:
+![image](https://user-images.githubusercontent.com/86930309/228368441-db0aff4d-d809-4597-8eeb-1ba85fe26fae.png)
+
+This is the green cluster withe offer id:
+![image](https://user-images.githubusercontent.com/86930309/228368516-4cae3d03-ccef-4331-9e40-8a5ae3fcf751.png)
+
+Lastly we have the blue cluster:
+![image](https://user-images.githubusercontent.com/86930309/228368544-570b44d4-614a-4713-a453-a040279463cd.png)
+
 ## 4. Conclusions and next steps
 
 - Conclusions
+
+The Elbow Sum-of-Squares Method suggests we use a cluster of four. Using the silhouette method that recommends using
+a cluster of 5 since it has the highest average silhoutte. The PCA displays that four, (maybe five) is the optimal dimensions for this dataset. The PCA expresses that the first four to five components explain a majority of the variance. Since these methods suggest four or five i would test both of those values out to see which is a better fit for the data.
+
 - Other clustering algorithms (Exercise Set 6)
 
+K-means is only one of a ton of clustering algorithms. Here is a few other clustering algorithms:
+
+A. Affinity Propagation 
+
+B. Spectral Clustering
+
+C. Ward's Method 
+
+D. Agglomerative Clustering
+
+E. DBSCAN
