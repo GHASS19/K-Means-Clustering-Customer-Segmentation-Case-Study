@@ -11,7 +11,7 @@
 
 ### Load the data
 
-The dataset[https://github.com/GHASS19/K-Means_Clustering_Customer_Segmentation_Case_Study/blob/main/Data/Clustering%20Case%20Study%20Customer%20Segmentation%20with%20K-Means%20(WineKMC).xlsx] contains information on marketing newsletters/e-mail campaigns (e-mail offers sent to customers) and transaction level data from customers. The transactional data shows which offer customers responded to, and what the customer ended up buying. The data is presented as an Excel workbook containing two worksheets. Each worksheet contains a different dataset.
+The [dataset](https://github.com/GHASS19/K-Means_Clustering_Customer_Segmentation_Case_Study/blob/main/Data/Clustering%20Case%20Study%20Customer%20Segmentation%20with%20K-Means%20(WineKMC).xlsx) contains information on marketing newsletters/e-mail campaigns (e-mail offers sent to customers) and transaction level data from customers. The transactional data shows which offer customers responded to, and what the customer ended up buying. The data is presented as an Excel workbook containing two worksheets. Each worksheet contains a different dataset.
 
 ### Explore the data
 
