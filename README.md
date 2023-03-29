@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/86930309/228121420-cf4cdbe6-3116-4dac-81b3-d9a90c8cd234.png)
 
-## Structure of the Mini-Project:
+## Structure of the [Mini-Project](https://github.com/GHASS19/K-Means_Clustering_Customer_Segmentation_Case_Study/blob/main/Notebook/Customer_Segmentation_with_K_Means_Clustering_Case_Study_.ipynb):
 
 ## 1. Sourcing and loading
 
